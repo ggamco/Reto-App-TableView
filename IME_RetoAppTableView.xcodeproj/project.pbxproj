@@ -8,20 +8,56 @@
 
 /* Begin PBXBuildFile section */
 		0951758F1E325D2C00CF8E9D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0951758E1E325D2C00CF8E9D /* AppDelegate.swift */; };
-		095175911E325D2C00CF8E9D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095175901E325D2C00CF8E9D /* ViewController.swift */; };
 		095175941E325D2C00CF8E9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 095175921E325D2C00CF8E9D /* Main.storyboard */; };
 		095175961E325D2C00CF8E9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 095175951E325D2C00CF8E9D /* Assets.xcassets */; };
 		095175991E325D2C00CF8E9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 095175971E325D2C00CF8E9D /* LaunchScreen.storyboard */; };
+		095175A71E325F8300CF8E9D /* img6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A01E325F8300CF8E9D /* img6.jpg */; };
+		095175A81E325F8300CF8E9D /* img5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A11E325F8300CF8E9D /* img5.jpg */; };
+		095175A91E325F8300CF8E9D /* img4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A21E325F8300CF8E9D /* img4.jpg */; };
+		095175AA1E325F8300CF8E9D /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A31E325F8300CF8E9D /* img3.jpg */; };
+		095175AB1E325F8300CF8E9D /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A41E325F8300CF8E9D /* img2.jpg */; };
+		095175AC1E325F8300CF8E9D /* img1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A51E325F8300CF8E9D /* img1.jpeg */; };
+		095175AD1E325F8300CF8E9D /* gmb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 095175A61E325F8300CF8E9D /* gmb.jpg */; };
+		095175B01E32636B00CF8E9D /* IME_VistaTablaTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095175AF1E32636B00CF8E9D /* IME_VistaTablaTVC.swift */; };
+		095175B21E32638E00CF8E9D /* IME_CeldaBasicaTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095175B11E32638E00CF8E9D /* IME_CeldaBasicaTVCell.swift */; };
+		095175B61E3263D800CF8E9D /* IME_VentanaDetalleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095175B51E3263D800CF8E9D /* IME_VentanaDetalleVC.swift */; };
+		095175BB1E3265EA00CF8E9D /* contactos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 095175BA1E3265EA00CF8E9D /* contactos.plist */; };
+		095175C21E32707400CF8E9D /* birthday-cake.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175BC1E32707400CF8E9D /* birthday-cake.png */; };
+		095175C31E32707400CF8E9D /* construction.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175BD1E32707400CF8E9D /* construction.png */; };
+		095175C41E32707400CF8E9D /* multimedia.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175BE1E32707400CF8E9D /* multimedia.png */; };
+		095175C51E32707400CF8E9D /* navigation.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175BF1E32707400CF8E9D /* navigation.png */; };
+		095175C61E32707400CF8E9D /* technology.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175C01E32707400CF8E9D /* technology.png */; };
+		095175C71E32707400CF8E9D /* twitter-logo-silhouette.png in Resources */ = {isa = PBXBuildFile; fileRef = 095175C11E32707400CF8E9D /* twitter-logo-silhouette.png */; };
+		095175CA1E327E0000CF8E9D /* perfil.plist in Resources */ = {isa = PBXBuildFile; fileRef = 095175C91E327E0000CF8E9D /* perfil.plist */; };
+		095175CC1E327F9A00CF8E9D /* IME_HomeNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095175CB1E327F9A00CF8E9D /* IME_HomeNavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0951758B1E325D2B00CF8E9D /* IME_RetoAppTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IME_RetoAppTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0951758E1E325D2C00CF8E9D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		095175901E325D2C00CF8E9D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		095175931E325D2C00CF8E9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		095175951E325D2C00CF8E9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		095175981E325D2C00CF8E9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0951759A1E325D2C00CF8E9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		095175A01E325F8300CF8E9D /* img6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img6.jpg; sourceTree = "<group>"; };
+		095175A11E325F8300CF8E9D /* img5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img5.jpg; sourceTree = "<group>"; };
+		095175A21E325F8300CF8E9D /* img4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img4.jpg; sourceTree = "<group>"; };
+		095175A31E325F8300CF8E9D /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
+		095175A41E325F8300CF8E9D /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		095175A51E325F8300CF8E9D /* img1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpeg; sourceTree = "<group>"; };
+		095175A61E325F8300CF8E9D /* gmb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gmb.jpg; sourceTree = "<group>"; };
+		095175AF1E32636B00CF8E9D /* IME_VistaTablaTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IME_VistaTablaTVC.swift; sourceTree = "<group>"; };
+		095175B11E32638E00CF8E9D /* IME_CeldaBasicaTVCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IME_CeldaBasicaTVCell.swift; sourceTree = "<group>"; };
+		095175B51E3263D800CF8E9D /* IME_VentanaDetalleVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IME_VentanaDetalleVC.swift; sourceTree = "<group>"; };
+		095175BA1E3265EA00CF8E9D /* contactos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = contactos.plist; sourceTree = "<group>"; };
+		095175BC1E32707400CF8E9D /* birthday-cake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "birthday-cake.png"; sourceTree = "<group>"; };
+		095175BD1E32707400CF8E9D /* construction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = construction.png; sourceTree = "<group>"; };
+		095175BE1E32707400CF8E9D /* multimedia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = multimedia.png; sourceTree = "<group>"; };
+		095175BF1E32707400CF8E9D /* navigation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigation.png; sourceTree = "<group>"; };
+		095175C01E32707400CF8E9D /* technology.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = technology.png; sourceTree = "<group>"; };
+		095175C11E32707400CF8E9D /* twitter-logo-silhouette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter-logo-silhouette.png"; sourceTree = "<group>"; };
+		095175C91E327E0000CF8E9D /* perfil.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = perfil.plist; sourceTree = "<group>"; };
+		095175CB1E327F9A00CF8E9D /* IME_HomeNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IME_HomeNavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +91,63 @@
 			isa = PBXGroup;
 			children = (
 				0951758E1E325D2C00CF8E9D /* AppDelegate.swift */,
-				095175901E325D2C00CF8E9D /* ViewController.swift */,
+				095175B41E3263A900CF8E9D /* VIEWS_CELL */,
+				095175B31E32639800CF8E9D /* VIEWS_CONTROLLER */,
+				095175AE1E325F8900CF8E9D /* IMAGES */,
+				095175C81E32708500CF8E9D /* ICONS */,
 				095175921E325D2C00CF8E9D /* Main.storyboard */,
 				095175951E325D2C00CF8E9D /* Assets.xcassets */,
 				095175971E325D2C00CF8E9D /* LaunchScreen.storyboard */,
 				0951759A1E325D2C00CF8E9D /* Info.plist */,
+				095175BA1E3265EA00CF8E9D /* contactos.plist */,
+				095175C91E327E0000CF8E9D /* perfil.plist */,
 			);
 			path = IME_RetoAppTableView;
+			sourceTree = "<group>";
+		};
+		095175AE1E325F8900CF8E9D /* IMAGES */ = {
+			isa = PBXGroup;
+			children = (
+				095175A01E325F8300CF8E9D /* img6.jpg */,
+				095175A11E325F8300CF8E9D /* img5.jpg */,
+				095175A21E325F8300CF8E9D /* img4.jpg */,
+				095175A31E325F8300CF8E9D /* img3.jpg */,
+				095175A41E325F8300CF8E9D /* img2.jpg */,
+				095175A51E325F8300CF8E9D /* img1.jpeg */,
+				095175A61E325F8300CF8E9D /* gmb.jpg */,
+			);
+			name = IMAGES;
+			sourceTree = "<group>";
+		};
+		095175B31E32639800CF8E9D /* VIEWS_CONTROLLER */ = {
+			isa = PBXGroup;
+			children = (
+				095175CB1E327F9A00CF8E9D /* IME_HomeNavigationController.swift */,
+				095175AF1E32636B00CF8E9D /* IME_VistaTablaTVC.swift */,
+				095175B51E3263D800CF8E9D /* IME_VentanaDetalleVC.swift */,
+			);
+			name = VIEWS_CONTROLLER;
+			sourceTree = "<group>";
+		};
+		095175B41E3263A900CF8E9D /* VIEWS_CELL */ = {
+			isa = PBXGroup;
+			children = (
+				095175B11E32638E00CF8E9D /* IME_CeldaBasicaTVCell.swift */,
+			);
+			name = VIEWS_CELL;
+			sourceTree = "<group>";
+		};
+		095175C81E32708500CF8E9D /* ICONS */ = {
+			isa = PBXGroup;
+			children = (
+				095175BC1E32707400CF8E9D /* birthday-cake.png */,
+				095175BD1E32707400CF8E9D /* construction.png */,
+				095175BE1E32707400CF8E9D /* multimedia.png */,
+				095175BF1E32707400CF8E9D /* navigation.png */,
+				095175C01E32707400CF8E9D /* technology.png */,
+				095175C11E32707400CF8E9D /* twitter-logo-silhouette.png */,
+			);
+			name = ICONS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +209,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				095175C41E32707400CF8E9D /* multimedia.png in Resources */,
+				095175C21E32707400CF8E9D /* birthday-cake.png in Resources */,
 				095175991E325D2C00CF8E9D /* LaunchScreen.storyboard in Resources */,
+				095175A81E325F8300CF8E9D /* img5.jpg in Resources */,
+				095175C71E32707400CF8E9D /* twitter-logo-silhouette.png in Resources */,
 				095175961E325D2C00CF8E9D /* Assets.xcassets in Resources */,
+				095175CA1E327E0000CF8E9D /* perfil.plist in Resources */,
+				095175AA1E325F8300CF8E9D /* img3.jpg in Resources */,
+				095175BB1E3265EA00CF8E9D /* contactos.plist in Resources */,
+				095175A71E325F8300CF8E9D /* img6.jpg in Resources */,
+				095175A91E325F8300CF8E9D /* img4.jpg in Resources */,
+				095175AB1E325F8300CF8E9D /* img2.jpg in Resources */,
 				095175941E325D2C00CF8E9D /* Main.storyboard in Resources */,
+				095175AD1E325F8300CF8E9D /* gmb.jpg in Resources */,
+				095175C31E32707400CF8E9D /* construction.png in Resources */,
+				095175C61E32707400CF8E9D /* technology.png in Resources */,
+				095175C51E32707400CF8E9D /* navigation.png in Resources */,
+				095175AC1E325F8300CF8E9D /* img1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +237,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				095175911E325D2C00CF8E9D /* ViewController.swift in Sources */,
+				095175B61E3263D800CF8E9D /* IME_VentanaDetalleVC.swift in Sources */,
+				095175B01E32636B00CF8E9D /* IME_VistaTablaTVC.swift in Sources */,
+				095175B21E32638E00CF8E9D /* IME_CeldaBasicaTVCell.swift in Sources */,
+				095175CC1E327F9A00CF8E9D /* IME_HomeNavigationController.swift in Sources */,
 				0951758F1E325D2C00CF8E9D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,6 +369,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gmbdesign.ios.IME-RetoAppTableView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -277,6 +382,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gmbdesign.ios.IME-RetoAppTableView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

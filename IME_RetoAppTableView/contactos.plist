@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nombre</key>
+		<string>Antonio</string>
+		<key>apellidos</key>
+		<string>Molina Cabrera</string>
+		<key>fechaCreacion</key>
+		<string>01/01/2010</string>
+		<key>imagen</key>
+		<string>img1.jpeg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@amolina</string>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Manuel</string>
+		<key>apellidos</key>
+		<string>Losada Garcia</string>
+		<key>fechaCreacion</key>
+		<string>12/10/2008</string>
+		<key>imagen</key>
+		<string>img2.jpg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@losadagar</string>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Gregorio</string>
+		<key>apellidos</key>
+		<string>Gamboa Cordero</string>
+		<key>fechaCreacion</key>
+		<string>01/01/2004</string>
+		<key>imagen</key>
+		<string>img3.jpg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@ggamcor</string>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Montse</string>
+		<key>apellidos</key>
+		<string>Garces Armas</string>
+		<key>fechaCreacion</key>
+		<string>01/01/2002</string>
+		<key>imagen</key>
+		<string>img4.jpg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@montsegar</string>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Maria</string>
+		<key>apellidos</key>
+		<string>Rodriguez Rodriguez</string>
+		<key>fechaCreacion</key>
+		<string>15/02/2010</string>
+		<key>imagen</key>
+		<string>img5.jpg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@mrodriro</string>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Eva</string>
+		<key>apellidos</key>
+		<string>Gallego Jimenez</string>
+		<key>fechaCreacion</key>
+		<string>01/05/2004</string>
+		<key>imagen</key>
+		<string>img6.jpg</string>
+		<key>email</key>
+		<string>example@example.com</string>
+		<key>telefono</key>
+		<string>+34 666 555 444</string>
+		<key>direccion</key>
+		<string>Calle Povedilla 4</string>
+		<key>ciudad</key>
+		<string>Madrid</string>
+		<key>twitter</key>
+		<string>@egajim</string>
+	</dict>
+</array>
+</plist>
