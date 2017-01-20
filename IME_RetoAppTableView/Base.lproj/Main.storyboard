@@ -186,7 +186,7 @@
         <!--Home Navigation Controller-->
         <scene sceneID="jkq-1I-eKf">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="3RB-Zs-0UB" customClass="IME_HomeNavigationController" customModule="IME_RetoAppTableView" customModuleProvider="target" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="HomeNav" automaticallyAdjustsScrollViewInsets="NO" id="3RB-Zs-0UB" customClass="IME_HomeNavigationController" customModule="IME_RetoAppTableView" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="wBb-el-L22">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>

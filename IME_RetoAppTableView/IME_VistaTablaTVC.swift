@@ -14,6 +14,9 @@ class IME_VistaTablaTVC: UITableViewController {
     var contactos: [[String:String]] = []
     var perfil: [[String:String]] = []
     
+    //creamos una instancia de nuestra clase navigationcontroller
+    
+    
     
     //MARK: - LIFE VC
     
@@ -36,6 +39,21 @@ class IME_VistaTablaTVC: UITableViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+    }
+    
+    
+    //conseguimos que el boton flotante aparezca cuando se carga la vista de la tabla
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        let navController = self.navigationController as! IME_HomeNavigationController
+        navController.botonFlotante.isHidden = false
+    }
+    
+    //conseguimos que el boton flotante desaparezca cuando se entra en un detalle de vista
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewDidDisappear(animated)
+        let navController = self.navigationController as! IME_HomeNavigationController
+        navController.botonFlotante.isHidden = true
     }
 
     // MARK: - Table view data source
